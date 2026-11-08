@@ -1,5 +1,7 @@
 # linkedin-mcp-icp-discovery
 
+> **Part of the [AI SDR Kit](https://github.com/zevarihq/ai-sdr-kit), the open-source AI SDR harness.** Install the kit to give your agent the whole outbound playbook (setup SOP and every LinkedIn and email sequence), then run this play on top of it.
+
 A Claude Code prompt I run every 90 days to rebuild a B2B target list from scratch — by starting from my best customers, extracting their behavioral pattern via the LinkedIn MCP, then filtering an Apollo pull down to live-confirmed lookalikes that actually pattern-match the seed.
 
 Sharing it because every other "ICP discovery" tool I've used stops at firmographics, which is the easy 20% of the problem.
